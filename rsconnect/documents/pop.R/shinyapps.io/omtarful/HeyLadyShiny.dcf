@@ -1,0 +1,12 @@
+name: HeyLadyShiny
+title: HeyLadyShiny
+username: omtarful
+account: omtarful
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12086616
+bundleId: 8738134
+url: https://omtarful.shinyapps.io/HeyLadyShiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

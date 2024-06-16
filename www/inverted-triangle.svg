@@ -1,0 +1,5 @@
+<svg width="48" height="40" viewBox="0 0 48 40" xmlns="http://www.w3.org/2000/svg">
+    <g transform="rotate(180, 24, 20)"> <!-- Rotation around the center (24,20) -->
+        <path d="M24 40L48 0H0L24 40Z" fill="#D17329"/>
+    </g>
+</svg>
